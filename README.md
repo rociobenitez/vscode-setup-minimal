@@ -2,13 +2,23 @@
   <img src="img/vs-code.png" width="100%" alt="VSCode Logo" />
 </p>
 
-# Configuración personal de VSCode
+<h1 align="center">Configuración personal de VSCode</h1>
 
-Un repositorio donde anoto mi configuración actual en Visual Studio Code.
+<p align="center">
+  Anotaciones sobre mi configuración actual en: <strong>Visual Studio Code</strong>.
+</p>
 
-- [Descargar VSCode - Sitio Oficial](https://code.visualstudio.com/)
-- [Keyboard Shortcuts Reference](https://code.visualstudio.com/docs/getstarted/keybindings#_keyboard-shortcuts-reference)
-- Configuración personalizada de `settings.json`
+<p align="center">
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Download%20VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Descargar VSCode">
+  </a>
+  <a href="#extensiones">
+    <img src="https://img.shields.io/badge/Extensiones%20-blue?style=for-the-badge">
+  </a>
+  <a href="#temas">
+    <img src="https://img.shields.io/badge/Temas%20-blue?style=for-the-badge">
+  </a>
+</p>
 
 ## Extensiones
 
@@ -104,5 +114,6 @@ Carpeta con wallpapers minimalistas para mantener el entorno limpio y agradable.
 
 ## Recursos útiles
 
+- [Keyboard Shortcuts Reference](https://code.visualstudio.com/docs/getstarted/keybindings#_keyboard-shortcuts-reference)
 - [Tips and Tricks VSCode](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
 - PDF con todos los atajos de teclado para macOS en [Keyboard Shortcuts MacOS](src/keyboard-shortcuts-macos.pdf)
