@@ -1,0 +1,23 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos y carpetas generados automáticamente
+.ipynb_checkpoints/
+__pycache__/
+*.log
+*.tmp
+
+# Entornos virtuales
+env/
+venv/
+.venv/
+.env/
+
+# Archivos grandes o generados
+*.log
+
+# Archivos de IDEs
+.vscode/
+.idea/
+*.iml
