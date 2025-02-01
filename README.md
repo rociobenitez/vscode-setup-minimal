@@ -61,6 +61,8 @@
   Herramientas para manejar contenedores Docker.
 - [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
   Para visualizar archivos PDF.
+- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+  Mejora la visualización de archivos CSV. Resalta columnas.
 
 ## Temas
 
