@@ -1,5 +1,5 @@
 {
-  "workbench.colorTheme": "GitHub Dark",
+  "workbench.colorTheme": "Catppuccin Macchiato",
   "workbench.sideBar.location": "right",
   "workbench.iconTheme": "material-icon-theme",
   "editor.minimap.enabled": false,
@@ -15,6 +15,9 @@
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "editor.matchBrackets": false,
   "workbench.activityBar.location": "hidden",
-  "editor.matchBrackets": "never"
+  "[latex]": {
+    "files.autoSave": "afterDelay"
+  }
 }
