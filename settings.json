@@ -17,7 +17,5 @@
   },
   "editor.matchBrackets": false,
   "workbench.activityBar.location": "hidden",
-  "[latex]": {
-    "files.autoSave": "afterDelay"
-  }
+  "files.autoSave": "afterDelay"
 }
