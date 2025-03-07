@@ -22,47 +22,77 @@
 
 ## Extensiones
 
-**Indispensables**
+### ⚡️ Esenciales
 
+- [Prettier - Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) -
+  Formatea el código de manera uniforme y limpia.
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) -
+  Mantiene la calidad del código JavaScript/TypeScript.
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) -
+  Potentes herramientas para trabajar con Git directamente en VSCode.
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) -
   Resalta errores y advertencias directamente en el editor.
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) -
   Un tema de iconos atractivo y funcional.
-- [Activitus Bar](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar) -
-  Simplifica la barra de actividad.
-- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) -
-  Renombra automáticamente etiquetas HTML/JSX relacionadas.
-- [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) -
-  Resalta comentarios TODO en el código.
-- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) -
-  Mejora la visualización de los comentarios en el código.
-- [Prettier - Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) -
-  Formatea el código de manera uniforme y limpia.
-- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) -
-  Potentes herramientas para trabajar con Git directamente en VSCode.
-
-**Otras extensiones**
-
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) -
   Lanza un servidor local para desarrollo web.
-- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) -
-  Soporte avanzado para Python.
-- [Django](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django) -
-  Herramientas para proyectos Django.
-- [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) -
-  Soporte para trabajar con notebooks de Jupyter.
-- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) -
-  Linter para mantener la calidad del código JavaScript/TypeScript.
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) -
+  Mejora la visualización de los comentarios en el código.
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) -
+  Renombra etiquetas HTML/JSX relacionadas automáticamente.
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) -
   Autocompletado y validación para clases de Tailwind CSS.
-- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) -
-  Herramientas para trabajar con Markdown.
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) -
+  Soporte avanzado para Python.
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) -
   Herramientas para manejar contenedores Docker.
-- [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
+
+### 🛠️ Otras extensiones útiles
+
+**Según el lenguaje y entorno:**
+
+- [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) -
+  Soporte para trabajar con notebooks de Jupyter.
+- [CSS Modules](https://marketplace.visualstudio.com/items?itemName=clinyong.vscode-css-modules) -
+  Herramienta útil si trabajas con [módulos CSS](https://github.com/css-modules/css-modules)
+- [PostCSS Language Support](https://marketplace.visualstudio.com/items?itemName=csstools.postcss) -
+  Resaltado de sintaxis para CSS moderno y experimental.
+- [Django](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django) -
+  Herramientas para proyectos Django.
+- [Prisma](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma) -
+  Agrega resaltado de sintaxis, correción de errores, completa código y más para [Prisma Schema](https://www.prisma.io/docs/orm/prisma-schema)
+- [TypeScript Importer](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter) -
+  Busca automáticamente las definiciones de TypeScript.
+
+**Productividad y formateo:**
+
+- [Activitus Bar](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar) -
+  Simplifica la barra de actividad.
+- [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) -
+  Resalta comentarios TODO en el código.
+- [.env](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) -
+  Proporciona compatibilidad con la sintaxis de archivos `.env`.
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) -
+  Herramientas para trabajar con Markdown.
+- [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) -
+  Convierte JSON en código.
+- [Better DockerFile Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-dockerfile-syntax) -
+  Mejora el resaltado de sintaxis en Dockerfiles.
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) -
+  Autocompletado de rutas y archivos.
+- [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) -
   Para visualizar archivos PDF.
-- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) -
   Mejora la visualización de archivos CSV. Resalta columnas.
+
+**Snippets:**
+
+- [ES7 React/Redux](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) -
+  Snippets para React y Redux.
+- [Snippets simple Next.js](https://marketplace.visualstudio.com/items?itemName=yuzu.snippets-next-13) -
+  Snippets para proyectos con Next.js.
+- [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) -
+  Snippets básicos para React.
 
 ## Temas
 
