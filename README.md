@@ -70,6 +70,8 @@
 
 - [Activitus Bar](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar) -
   Simplifica la barra de actividad.
+- [W3C Web Validator](https://marketplace.visualstudio.com/items?itemName=CelianRiboulet.webvalidator) -
+  Validar problemas en el código HTML.
 - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) -
   Resalta comentarios TODO en el código.
 - [.env](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) -
