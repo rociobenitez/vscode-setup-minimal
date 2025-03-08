@@ -63,6 +63,8 @@
   Agrega resaltado de sintaxis, correción de errores, completa código y más para [Prisma Schema](https://www.prisma.io/docs/orm/prisma-schema)
 - [TypeScript Importer](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter) -
   Busca automáticamente las definiciones de TypeScript.
+- [SQLite Viewer](https://marketplace.visualstudio.com/items?itemName=qwtel.sqlite-viewer) -
+  Visualiza la información de archivos SQLite.
 
 **Productividad y formateo:**
 
