@@ -42,6 +42,12 @@
   Autocompletado y validación para clases de Tailwind CSS.
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) -
   Soporte avanzado para Python.
+- [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) -
+  Gran herramienta para desarrollo en PHP.
+- [PHP CS Fixer](https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer) -
+  Formatea el código PHP automáticamente.
+- [PHP Debug](https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug) -
+  Permite depurar el código PHP.
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) -
   Herramientas para manejar contenedores Docker.
 
@@ -55,14 +61,16 @@
   Herramienta útil si trabajas con [módulos CSS](https://github.com/css-modules/css-modules)
 - [PostCSS Language Support](https://marketplace.visualstudio.com/items?itemName=csstools.postcss) -
   Resaltado de sintaxis para CSS moderno y experimental.
+- [Laravel Artisan](https://marketplace.visualstudio.com/items?itemName=ryannaddy.laravel-artisan) -
+  Ejecuta comandos de Laravel Artisan desde VSCode.
+- [Composer](https://marketplace.visualstudio.com/items?itemName=ikappas.composer) -
+  Interfaz para el administrador de dependencias de [Composer](https://getcomposer.org/).
 - [Django](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django) -
   Herramientas para proyectos Django.
 - [Prisma](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma) -
   Agrega resaltado de sintaxis, correción de errores, completa código y más para [Prisma Schema](https://www.prisma.io/docs/orm/prisma-schema)
 - [TypeScript Importer](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter) -
   Busca automáticamente las definiciones de TypeScript.
-- [SQLite Viewer](https://marketplace.visualstudio.com/items?itemName=qwtel.sqlite-viewer) -
-  Visualiza la información de archivos SQLite.
 
 **Productividad y formateo:**
 
@@ -78,6 +86,8 @@
   Proporciona compatibilidad con la sintaxis de archivos `.env`.
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) -
   Herramientas para trabajar con Markdown.
+- [SQLite Viewer](https://marketplace.visualstudio.com/items?itemName=qwtel.sqlite-viewer) -
+  Visualiza la información de archivos SQLite.
 - [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) -
   Convierte JSON en código.
 - [Better DockerFile Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-dockerfile-syntax) -
@@ -97,6 +107,8 @@
   Snippets para proyectos con Next.js.
 - [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) -
   Snippets básicos para React.
+- [PHP Snippets](https://marketplace.visualstudio.com/items?itemName=vsc-snippets.vsc-php-snippets) -
+  Snippets para PHP.
 
 ## Temas
 
