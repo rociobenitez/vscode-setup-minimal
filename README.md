@@ -36,8 +36,6 @@
   Un tema de iconos atractivo y funcional.
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) -
   Lanza un servidor local para desarrollo web.
-- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) -
-  Mejora la visualización de los comentarios en el código.
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) -
   Renombra etiquetas HTML/JSX relacionadas automáticamente.
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) -
@@ -74,6 +72,8 @@
   Validar problemas en el código HTML.
 - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) -
   Resalta comentarios TODO en el código.
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) -
+  Mejora la visualización de los comentarios en el código.
 - [.env](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) -
   Proporciona compatibilidad con la sintaxis de archivos `.env`.
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) -
