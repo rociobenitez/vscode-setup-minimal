@@ -26,6 +26,8 @@
 
 - [Prettier - Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) -
   Formatea el código de manera uniforme y limpia.
+- [ES6 String HTML](https://marketplace.visualstudio.com/items?itemName=Tobermory.es6-string-html) -
+  Coloreado de sintaxis para HTML, CSS, SVG, XML, SQL, GLSL en string templates. Ideal para WebComponents.
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) -
   Mantiene la calidad del código JavaScript/TypeScript.
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) -
@@ -50,6 +52,10 @@
   Permite depurar el código PHP.
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) -
   Herramientas para manejar contenedores Docker.
+- [VSCode Color Picker](https://marketplace.visualstudio.com/items?itemName=MarkosTh09.color-picker) -
+  Ideal para colores en Javascript o WebComponents.
+- [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview) -
+  Muestra una previsualización de la imagen referenciada en el margen de la línea.
 
 ### 🛠️ Otras extensiones útiles
 
@@ -80,6 +86,10 @@
   Validar problemas en el código HTML.
 - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) -
   Resalta comentarios TODO en el código.
+- [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) -
+  Genera un fondo de color en el propio código.
+- [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) -
+  Integra StyleLint (Linter CSS) en VSCode.
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) -
   Mejora la visualización de los comentarios en el código.
 - [.env](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) -
